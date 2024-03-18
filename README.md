@@ -1,7 +1,7 @@
 <h2>Hola! Soy Marii 🌱</h2>
 
 <p align="center">
-  <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/oscarW.png" alt="oscwilde" />
+  <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/oscarW.png" alt="oscwilde" height="50"/>
 </p>
 
 <p>Soy estudiante en la carrera de Analista Programador Universitario en la Facultad de Informática en la UNLP. Actualmente estoy cursando el segundo año de la carrera. Fanática del manga y el anime, el universo Tolkien, Aurora y mis gatas 🐈🐈‍⬛🐈</p>
