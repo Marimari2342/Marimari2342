@@ -1,22 +1,35 @@
 <h2>Hola! Soy Marii 🌱</h2>
 
+<p align="center">
+  <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/oscarW.png" alt="oscwilde" />
+</p>
+
 <p>Soy estudiante en la carrera de Analista Programador Universitario en la Facultad de Informática en la UNLP. Actualmente estoy cursando el segundo año de la carrera. Fanática del manga y el anime, el universo Tolkien, Aurora y mis gatas 🐈🐈‍⬛🐈</p>
 
-<h3>Lenguajes y herramientas</h3>
+<h3>🍄Lenguajes y herramientas</h3>
 
 <p align="left">
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" height="50" width="50" />
-  <img align="center" src="" alt="pascal" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" alt="ruby" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="c#" height="50" width="50" />
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" height="50" width="50" />
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" alt="ruby" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Fortran.svg" alt="fortran" height="50" width="50" />
 </p>
-  
-<h3>Podes encontrarme en:</h3>
+
+<h3>🍒Otros intereses y habilidades</h3>
+
+<p align="left">
+  <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/clip.png" alt="clip" height="50" width="50" />
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" height="50" width="50" />
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="illust" height="50" width="50" />
+  <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/indesign.png" alt="indesign" height="50" width="50" />
+  <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/excel.png" alt="excel" height="50" width="50" />
+</p>
+
+<h3>🌵Podes encontrarme en</h3>
 
 <p align="left">
   <a href="https://www.instagram.com/marianroj" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="mariinsta" height="50" width="50" /></a>
