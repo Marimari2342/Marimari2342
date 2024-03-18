@@ -9,8 +9,13 @@
 <p>Soy estudiante en la carrera de Analista Programador Universitario en la Facultad de Informática en la UNLP. Actualmente estoy cursando el segundo año de la carrera.</p>
 <p>Me gusta mucho aprender cosas nuevas, enseñar y trabajar en equipo. Me interesa como hobbie la ilustración y el diseño digital, también armar rompecabezas, leer y aprender idiomas. Soy muy dedicada y meticulosa, no sólo en mi trabajo sino en todos los aspectos de mi vida.</p>
 <p>Fanática del manga y el anime, el universo Tolkien, Aurora y mis gatas 🐈🐈‍⬛🐈</p>
+<br>
 
 <h3>🍄Lenguajes y herramientas</h3>
+
+<!--
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marimari2342&show_icons=true&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&include_all_commits=true"  width="300">
+-->
 
 <p align="left">
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" height="50" width="50" />
@@ -23,7 +28,8 @@
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" alt="ruby" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Fortran.svg" alt="fortran" height="50" width="50" />
-</p>
+</p><br>
+
 
 <h3>🍒Otros intereses y habilidades</h3>
 
@@ -33,7 +39,8 @@
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="illust" height="50" width="50" />
   <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/indesign.png" alt="indesign" height="50" width="50" />
   <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/excel.png" alt="excel" height="50" width="50" />
-</p>
+</p><br>
+
 
 <h3>🌵Podes encontrarme en</h3>
 
@@ -43,23 +50,12 @@
   <a href="mailto:marianroj.2342@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="mariemail" height="50" width="50"/></a>  
 </p>
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 
 <p><img align="center" src="https://github.com/Marimari2342/Marimari2342/blob/main/firmagith.png" alt="marigit"/></p>
-<!--
-**Marimari2342/Marimari2342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
