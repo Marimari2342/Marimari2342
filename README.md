@@ -54,7 +54,7 @@
 
 <h3>Primer Semestre</h3>
 <h3>Segundo Semestre</h3>
-    <a href="https://github.com/Marimari2342/Taller-de-Programacion"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Taller-de-Programacion&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF" />
+    <a href="https://github.com/Marimari2342/Taller-de-Programacion"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Taller-de-Programacion&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF"/>
     </a>  
 
 <h3>Tercer Semestre</h3>
