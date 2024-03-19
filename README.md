@@ -55,18 +55,18 @@
 
 <h3>Segundo Semestre</h3>
     <a href="https://github.com/Marimari2342/Arquitectura-de-Computadoras">
-      <img height="120px" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Arquitectura-de-Computadoras&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&show_topics=true"/>
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Arquitectura-de-Computadoras&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&show_topics=true"/>
     </a> 
     <a href="https://github.com/Marimari2342/Taller-de-Programacion">
-      <img height="120px" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Taller-de-Programacion&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&show_topics=true"/>
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Taller-de-Programacion&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&show_topics=true"/>
     </a>  
 
 <h3>Tercer Semestre</h3>
     <a href="https://github.com/Marimari2342/Seminario.NET">
-      <img height="120px" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Seminario.NET&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&show_topics=true"/>
+      <img height="120px"src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Seminario.NET&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&show_topics=true"/>
     </a> 
     <a href="https://github.com/Marimari2342/FOD">
-      <img height="120px" width="400px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=FOD&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&show_topics=true"/>
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=FOD&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&show_topics=true"/>
     </a> 
 </div>
 <br>
