@@ -4,7 +4,10 @@
   <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/oscarW.png" alt="oscwilde" height="70"/>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Marimari2342&show_icons=true&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&include_all_commits=true" width="400">
+<!--
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Marimari2342&show_icons=true&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&include_all_commits=true" width="400">-->
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marimari2342&show_icons=true&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&include_all_commits=true"  width="300">
 
 <p>Soy estudiante en la carrera de Analista Programador Universitario en la Facultad de Informática en la UNLP. Actualmente estoy cursando el segundo año de la carrera.</p>
 <p>Me gusta mucho aprender cosas nuevas, enseñar y trabajar en equipo. Me interesa como hobbies la ilustración y el diseño digital, también armar rompecabezas, leer y aprender idiomas. Soy muy dedicada y meticulosa, no sólo en mi trabajo sino en todos los aspectos de mi vida.</p>
@@ -12,10 +15,6 @@
 <br>
 
 <h3>🍄Lenguajes y herramientas</h3>
-
-<!--
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marimari2342&show_icons=true&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&include_all_commits=true"  width="300">
--->
 
 <p align="left">
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" height="50" width="50" />
