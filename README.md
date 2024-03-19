@@ -50,15 +50,16 @@
   <a href="mailto:marianroj.2342@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="mariemail" height="50" width="50"/></a>  
 </p>
 
-<h2 align="left">🌸Materias de la Facu🍏</h2>
+<h2 align="center">🌸Materias de la Facu🍏</h2>
 
 <h3>Primer Semestre</h3>
 <h3>Segundo Semestre</h3>
-    <a href="https://github.com/Marimari2342/Taller-de-Programacion"><img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Taller-de-Programacion&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&show_topics=true"/>
+    <a href="https://github.com/Marimari2342/Taller-de-Programacion"><img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Taller-de-Programacion&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&show_topics=true"/>
     </a>  
 
 <h3>Tercer Semestre</h3>
-<h3>Cuarto Semestre</h3>
+    <a href="https://github.com/Marimari2342/Seminario.NET"><img height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Seminario.NET&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&show_topics=true"/>
+    </a> 
 <br>
 <br>
 <br>
