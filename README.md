@@ -52,6 +52,9 @@
 <h2 align="center">🌸Materias de la Facu🍏</h2>
 <div align="center">
 <h3>Primer Semestre</h3>
+<a href="https://github.com/Marimari2342/Organizacion-de-Computadoras">
+      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Organizacion-de-Computadoras&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF"/>
+    </a> 
 
 <h3>Segundo Semestre</h3>
     <a href="https://github.com/Marimari2342/Arquitectura-de-Computadoras">
