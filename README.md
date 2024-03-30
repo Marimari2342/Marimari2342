@@ -8,11 +8,6 @@
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Marimari2342&theme=tokyonight&hide_border=true&bg_color=000000" width="50%">
 
 
-<!--
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Marimari2342&show_icons=true&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&include_all_commits=true" width="50%">
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marimari2342&show_icons=true&title_color=ffffff&icon_color=9F33FF&text_color=9f9f9f&bg_color=000000&border_color=9F33FF&include_all_commits=true"  width="50%">-->
-
 <p align="justify" >Soy estudiante en la carrera de Analista Programador Universitario en la Facultad de Informática en la UNLP. Actualmente estoy cursando el segundo año de la carrera.</p>
 <p align="justify" >Me gusta mucho aprender cosas nuevas, enseñar y trabajar en equipo. Me interesa como hobbies la ilustración y el diseño digital, también armar rompecabezas, leer y aprender idiomas. Soy muy dedicada y meticulosa, no sólo en mi trabajo sino en todos los aspectos de mi vida.</p>
 <p align="justify" >Fanática del manga y el anime, el universo Tolkien, Aurora y mis gatas 🐈🐈‍⬛🐈</p>
@@ -57,23 +52,23 @@
 <div align="center">
 <h3>Primer Semestre</h3>
 <a href="https://github.com/Marimari2342/Organizacion-de-Computadoras">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Organizacion-de-Computadoras&theme=tokyonight&bg_color=000000"/>
+      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Organizacion-de-Computadoras&theme=tokyonight&bg_color=000000"/>
     </a> 
 
 <h3>Segundo Semestre</h3>
     <a href="https://github.com/Marimari2342/Arquitectura-de-Computadoras">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Arquitectura-de-Computadoras&theme=tokyonight&bg_color=000000"/>
+      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Arquitectura-de-Computadoras&theme=tokyonight&bg_color=000000"/>
     </a> 
     <a href="https://github.com/Marimari2342/Taller-de-Programacion">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Taller-de-Programacion&theme=tokyonight&bg_color=000000"/>
+      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Taller-de-Programacion&theme=tokyonight&bg_color=000000"/>
     </a>  
 
 <h3>Tercer Semestre</h3>
     <a href="https://github.com/Marimari2342/Seminario.NET">
-      <img height="120px"src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Seminario.NET&theme=tokyonight&bg_color=000000"/>
+      <img height="110px"src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Seminario.NET&theme=tokyonight&bg_color=000000"/>
     </a> 
     <a href="https://github.com/Marimari2342/FOD">
-      <img height="120px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=FOD&theme=tokyonight&bg_color=000000"/>
+      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=FOD&theme=tokyonight&bg_color=000000"/>
     </a> 
 </div>
 <br>
