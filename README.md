@@ -70,6 +70,9 @@
     <a href="https://github.com/Marimari2342/FOD">
       <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=FOD&theme=tokyonight&bg_color=000000"/>
     </a> 
+    <a href="https://github.com/Marimari2342/AyED">
+      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=AyED&theme=tokyonight&bg_color=000000"/>
+    </a> 
 </div>
 <br>
 <br>
