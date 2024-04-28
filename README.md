@@ -1,7 +1,7 @@
 <h1>Hola! Soy Marii 🌱</h1>
 
 <p align="center">
-  <img align="center" src="https://github.com/Marimari2342/Marimari2342/blob/main/marii.png" alt="mari"/>
+  <img align="center" src="https://github.com/Marimari2342/Marimari2342/blob/main/mari.png" alt="mari"/>
 </p>
 
 <!--<p align="center">
