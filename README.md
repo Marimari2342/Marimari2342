@@ -1,8 +1,12 @@
 <h1>Hola! Soy Marii 🌱</h1>
 
 <p align="center">
-  <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/oscarW.png" alt="oscwilde" height="70"/>
+  <img align="center" src="https://github.com/Marimari2342/Marimari2342/blob/main/marii.png" alt="mari"/>
 </p>
+
+<!--<p align="center">
+  <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/oscarW.png" alt="oscwilde" height="70"/>
+</p>-->
 
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Marimari2342&theme=tokyonight&hide_border=true&bg_color=000000" width="50%">
