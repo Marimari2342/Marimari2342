@@ -20,6 +20,10 @@
 
 <p align="center">🔵🔵🔵🔵🔵🔵</p>
 
+<p align="center">
+  <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/oscarW.png" alt="oscwilde" height="70"/>
+</p>
+
 <h3>🍄Lenguajes y herramientas</h3>
 
 <p align="left">
