@@ -8,9 +8,9 @@
   <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/oscarW.png" alt="oscwilde" height="70"/>
 </p>-->
 
-<!-- VER DESPUES PORQUE NO FUNCA
+<!-- VER DESPUES PORQUE NO FUNCA-->
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Marimari2342&theme=tokyonight&hide_border=true&bg_color=000000" width="50%">
--->
+
 
 <h3>🪴Sobre mi</h3>
 <p align="justify" >Soy estudiante en la carrera de Analista Programador Universitario en la Facultad de Informática en la UNLP. Actualmente estoy cursando el segundo año de la carrera.</p>
