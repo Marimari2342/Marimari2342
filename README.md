@@ -21,45 +21,50 @@
 <p align="center">
   <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/oscarW.png" alt="oscwilde" height="70"/>
 </p>
+
 <div align="center">
 <h3 align="center">🪐GitHub Stats</h3>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marimari2342&theme=tokyonight&hide_border=true&bg_color=000000" width="350px"><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marimari2342&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true" width="350px">
 </div>
 
+<div align="center">
 <h3>🍄Lenguajes y herramientas</h3>
-<p align="left">
+<p align="center">
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" height="50" width="50" />
 </p>
-<p align="left">
+<p align="center">
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="c#" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" alt="ruby" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Fortran.svg" alt="fortran" height="50" width="50" />
 </p><br>
+</div>
 
-
+<div align="center">
 <h3>🍒Otros intereses y habilidades</h3>
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/clip.png" alt="clip" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="illust" height="50" width="50" />
   <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/indesign.png" alt="indesign" height="50" width="50" />
   <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/excel.png" alt="excel" height="50" width="50" />
 </p><br>
+</div>
 
-
+<div align="center">
 <h3>🌵Podes encontrarme en</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://www.instagram.com/marianroj" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="mariinsta" height="50" width="50" /></a>
   <a href="https://www.linkedin.com/in/marianroj/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="mariin" height="50" width="50"/></a>
   <a href="mailto:marianroj.2342@gmail.com" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="mariemail" height="50" width="50"/></a>  
 </p>
+</div>
 
 <h2 align="center">🌸Materias de la Facu🍏</h2>
 <div align="center">
