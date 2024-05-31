@@ -11,6 +11,8 @@
 <!-- VER DESPUES PORQUE NO FUNCA-->
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Marimari2342&theme=tokyonight&hide_border=true&bg_color=000000" width="50%">
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marimari2342&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true" width="50%">
+
 
 <h3>🪴Sobre mi</h3>
 <p align="justify" >Soy estudiante en la carrera de Analista Programador Universitario en la Facultad de Informática en la UNLP. Actualmente estoy cursando el segundo año de la carrera.</p>
