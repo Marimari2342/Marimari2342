@@ -9,9 +9,9 @@
 </p>-->
 
 <!-- VER DESPUES PORQUE NO FUNCA-->
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Marimari2342&theme=tokyonight&hide_border=true&bg_color=000000" width="45%"><br>
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Marimari2342&theme=tokyonight&hide_border=true&bg_color=000000" width="50%">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marimari2342&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true" width="45%"><br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marimari2342&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true" width="50%">
 
 
 <h3>🪴Sobre mi</h3>
@@ -20,7 +20,7 @@
 <p align="justify" >Fanática del manga y el anime, el universo Tolkien, Aurora y mis gatas 🐈🐈‍⬛🐈</p>
 <br>
 
-
+<br>
 <p align="center">🔵🔵🔵🔵🔵🔵</p>
 
 <p align="center">
