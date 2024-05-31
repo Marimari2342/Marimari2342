@@ -23,11 +23,11 @@
 </p>
 <div align="center">
 <h3 align="center">🪐GitHub Stats</h3>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marimari2342&theme=tokyonight&hide_border=true&bg_color=000000" width="50%">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marimari2342&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true" width="50%">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marimari2342&theme=tokyonight&hide_border=true&bg_color=000000" width="350px"><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marimari2342&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true" width="350px">
 </div>
-<h3>🍄Lenguajes y herramientas</h3>
 
+<h3>🍄Lenguajes y herramientas</h3>
 <p align="left">
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" height="50" width="50" />
