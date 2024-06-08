@@ -4,12 +4,6 @@
   <img align="center" src="https://github.com/Marimari2342/Marimari2342/blob/main/mariii.png" alt="mari"/>
 </p>
 
-<!--<p align="center">
-  <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/oscarW.png" alt="oscwilde" height="70"/>
-</p>-->
-
-<!-- VER DESPUES PORQUE NO FUNCA-->
-
 <h2>🪴Sobre mi</h2>
 <p align="justify" >Soy estudiante en la carrera de Analista Programador Universitario en la Facultad de Informática en la UNLP. Actualmente estoy cursando el segundo año de la carrera.</p>
 <p align="justify" >Me gusta mucho aprender cosas nuevas, enseñar y trabajar en equipo. Me interesa como hobbies la ilustración y el diseño digital, también armar rompecabezas, leer y aprender idiomas. Soy muy dedicada y meticulosa, no sólo en mi trabajo sino en todos los aspectos de mi vida.</p>
