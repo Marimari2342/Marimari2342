@@ -67,6 +67,9 @@
 <h2 align="center">🌸Materias de la Facu🍏</h2>
 <div align="center">
 <h3>Primer Semestre</h3>
+<a href="https://github.com/Marimari2342/CADP">
+      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=CADP&theme=tokyonight&bg_color=000000"/>
+    </a> 
 <a href="https://github.com/Marimari2342/Organizacion-de-Computadoras">
       <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Organizacion-de-Computadoras&theme=tokyonight&bg_color=000000"/>
     </a> 
