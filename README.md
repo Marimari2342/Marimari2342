@@ -92,6 +92,11 @@
     <a href="https://github.com/Marimari2342/Seminario.NET">
       <img height="110px"src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Seminario.NET&theme=tokyonight&bg_color=000000"/>
     </a> 
+
+<h3>Cuarto Semestre</h3>
+    <a href="https://github.com/Marimari2342/ING1">
+      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=ING1&theme=tokyonight&bg_color=000000"/>
+    </a> 
 </div>
 <br>
 <br>
