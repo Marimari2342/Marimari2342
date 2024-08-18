@@ -1,8 +1,8 @@
 <h1>Hola! Soy Marii 🌱</h1>
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github.com/Marimari2342/Marimari2342/blob/main/mariii.png" alt="mari"/>
-</p>
+</p> -->
 
 <h2>🪴Sobre mi</h2>
 <p align="justify" >Soy estudiante en la carrera de Analista Programador Universitario en la Facultad de Informática en la UNLP. Actualmente estoy cursando el segundo año de la carrera.</p>
