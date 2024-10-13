@@ -38,7 +38,7 @@
 </p><br>
 </div>
 
-<div align="center">
+<!--<div align="center">
 <h3>🍒Otros intereses y habilidades</h3>
 
 <p align="center">
@@ -48,7 +48,7 @@
   <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/indesign.png" alt="indesign" height="50" width="50" />
   <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/excel.png" alt="excel" height="50" width="50" />
 </p><br>
-</div>
+</div>-->
 
 <div align="center">
 <h3>🌵Podes encontrarme en</h3>
