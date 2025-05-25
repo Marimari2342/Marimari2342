@@ -5,7 +5,7 @@
 </p> -->
 
 <h2>🪴Sobre mi</h2>
-<p align="justify" >Soy estudiante en la carrera de Analista Programador Universitario en la Facultad de Informática en la UNLP. Actualmente estoy cursando el segundo año de la carrera.</p>
+<p align="justify" >Soy estudiante en la carrera de Analista Programador Universitario en la Facultad de Informática en la UNLP. Actualmente estoy cursando el tercer año de la carrera.</p>
 <p align="justify" >Me gusta mucho aprender cosas nuevas, enseñar y trabajar en equipo. Me interesa como hobbies la ilustración y el diseño digital, también armar rompecabezas, leer, mirar pelis y aprender idiomas.</p>
 <p align="justify" >Fanática del manga y el anime, el universo Tolkien, Aurora y mis gatas 🐈🐈‍⬛🐈</p>
 <br>
@@ -105,6 +105,11 @@
     </a> 
     <a href="https://github.com/Marimari2342/OO1">
       <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=OO1&theme=tokyonight&bg_color=000000"/>
+    </a> 
+
+<h3> Quinto Semestre</h3>
+<a href="https://github.com/Marimari2342/ING2">
+      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=ING2&theme=tokyonight&bg_color=000000"/>
     </a> 
 </div>
 <br>
