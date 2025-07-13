@@ -109,12 +109,14 @@
     </a> 
 
 <h3> Quinto Semestre</h3>
-    <a href="https://github.com/Marimari2342/ING2">
-      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=ING2&theme=tokyonight&bg_color=000000"/>
-    </a> 
-    <a href="https://github.com/Marimari2342/Mate3">
-      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Mate3&theme=tokyonight&bg_color=000000"/>
-    </a> 
+    <div align="center">
+      <a href="https://github.com/Marimari2342/ING2">
+        <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=ING2&theme=tokyonight&bg_color=000000"/>
+      </a> 
+      <a href="https://github.com/Marimari2342/Mate3">
+        <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Mate3&theme=tokyonight&bg_color=000000"/>
+      </a> 
+  </div>
 </div>
 <br>
 <br>
