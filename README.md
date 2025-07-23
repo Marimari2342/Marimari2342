@@ -73,8 +73,19 @@
 </p>
 </div>
 
+
 <br>
-<p align="center">🔵🔵🔵🔵🔵🔵</p>
+  
+<p align="center">
+  🔵🔵🔵🔵
+  <a href="https://drive.google.com/file/d/19cs6V9yjJaPRiBTQtzigwuW2NhroH6J2/view?usp=sharing" target="_blank">
+    <strong>🍄Ver mi CV🍄</strong>
+  </a>
+  🔵🔵🔵🔵
+</p>
+
+
+
 <br>
 
 <h2 align="center">🌸Materias de la Facu🍏</h2>
