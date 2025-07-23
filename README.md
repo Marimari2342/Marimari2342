@@ -80,7 +80,7 @@
   
 <p align="center">
   🔵🔵🔵🔵
-  <a href="https://drive.google.com/file/d/19cs6V9yjJaPRiBTQtzigwuW2NhroH6J2/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1OMs1cejNKDFy-pN0nYX2xfsi7-3dc3xc/view?usp=sharing" target="_blank">
     <strong>🍄Ver mi CV🍄</strong>
   </a>
   🔵🔵🔵🔵
