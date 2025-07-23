@@ -31,23 +31,25 @@
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" alt="ubuntu" height="50" width="50" />
 </p>
 <p align="center">
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="c#" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="net" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" alt="shell" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" alt="ruby" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Fortran.svg" alt="fortran" height="50" width="50" />
 </p>
   <p align="center">
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="sqllite" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="eclipse" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="maven" height="50" width="50" />
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" alt="ruby" height="50" width="50" />
+</p>
+<p align="center">
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" alt="ubuntu" height="50" width="50" />
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" height="50" width="50" />
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" height="50" width="50" />
 </p><br>
 </div>
 
