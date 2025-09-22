@@ -144,6 +144,14 @@
   </div>
 </div>
 <br>
+
+
+<h2 align="center">🌸Otros Proyectos🍏</h2>
+<div align="center">
+<a href="https://github.com/Marimari2342/compu-fcaglp">
+      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Compu-fcaglp&theme=tokyonight&bg_color=000000"/>
+    </a>
+</div>
 <br>
 <br>
 <br>
