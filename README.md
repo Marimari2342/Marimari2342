@@ -5,7 +5,7 @@
 </p> -->
 
 <h2>🪴Sobre mi</h2>
-<p align="justify" >Soy estudiante en la carrera de Analista Programador Universitario en la Facultad de Informática en la UNLP. Actualmente estoy cursando el tercer año de la carrera.</p>
+<p align="justify" >Soy estudiante en la carrera de Analista Programador Universitario en la Facultad de Informática en la UNLP. También formo parte del programa de Tutorías de la facu. Actualmente estoy cursando el tercer año de la carrera.</p>
 <p align="justify" >Me gusta mucho aprender cosas nuevas, enseñar y trabajar en equipo. Me interesa como hobbies la ilustración y el diseño digital, también armar rompecabezas, leer, mirar pelis y aprender idiomas.</p>
 <p align="justify" >Fanática del manga y el anime, el universo Tolkien, Aurora y mis gatas 🐈🐈‍⬛🐈</p>
 <p align="justify" >Subo las prácticas y el material de estudio para parciales/finales, espero que les sirva (algunas resoluciones pueden venir con errores).</p>
