@@ -1,11 +1,7 @@
 <h1>Hola! Soy Marii 🌱</h1>
 
-<!-- <p align="center">
-  <img align="center" src="https://github.com/Marimari2342/Marimari2342/blob/main/mariii.png" alt="mari"/>
-</p> -->
-
 <h2>🪴Sobre mi</h2>
-<p align="justify" >Soy estudiante en la carrera de Analista Programador Universitario en la Facultad de Informática en la UNLP. También formo parte del programa de Tutorías de la Facultad. Actualmente estoy cursando el tercer año de la carrera.</p>
+<p align="justify" >Soy estudiante de la Facultad de Informática en la UNLP orientada al desarrollo backend y proyectos interactivos. También formo parte del programa de Tutorías de la Facultad. Actualmente estoy cursando el tercer año de la carrera.</p>
 <p align="justify" >Me gusta mucho aprender cosas nuevas, enseñar y trabajar en equipo. Me interesa como hobbies la ilustración y el diseño digital, también armar rompecabezas, leer, mirar pelis y aprender idiomas.</p>
 <p align="justify" >Fanática del manga y el anime, el universo Tolkien, Aurora y mis gatas 🐈🐈‍⬛🐈</p>
 <p align="justify" >Subo las prácticas y el material de estudio para parciales/finales, espero que les sirva (algunas resoluciones pueden venir con errores).</p>
@@ -24,46 +20,20 @@
 </div>
 
 <div align="center">
-<h3>🍄Lenguajes y herramientas</h3>
-<p align="center">
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" alt="python" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" height="50" width="50" />
-</p>
-<p align="center">
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="c#" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="net" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Powershell-Dark.svg" alt="shell" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Fortran.svg" alt="fortran" height="50" width="50" />
-</p>
-  <p align="center">
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="mysql" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" alt="sqllite" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Eclipse-Dark.svg" alt="eclipse" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" alt="maven" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ruby.svg" alt="ruby" height="50" width="50" />
-</p>
-<p align="center">
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Ubuntu-Dark.svg" alt="ubuntu" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="bootstrap" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Django.svg" alt="django" height="50" width="50" />
-</p><br>
+<h3>🐛Intereses</h3>
+<p align="justify"> Me interesa el desarrollo backend, el procesamiento de datos y la interacción humano-computadora. Me gusta trabajar con programación orientada a objetos, enfocándome en escribir código modular y reutilizable.</p>
+<br>
 </div>
 
-<!--<div align="center">
-<h3>🍒Otros intereses y habilidades</h3>
-
+<div align="center">
+<h3>🍄Lenguajes y herramientas</h3>
 <p align="center">
-  <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/clip.png" alt="clip" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg" alt="photoshop" height="50" width="50" />
-  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" alt="illust" height="50" width="50" />
-  <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/indesign.png" alt="indesign" height="50" width="50" />
-  <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/excel.png" alt="excel" height="50" width="50" />
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java" height="50" width="50" />
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="c#" height="50" width="50" />
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="net" height="50" width="50" />
+  <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" height="50" width="50" />
 </p><br>
-</div>-->
+</div>
 
 <div align="center">
 <h3>🌵Podes encontrarme en</h3>
@@ -85,10 +55,16 @@
   </a>
   🔵🔵🔵🔵
 </p>
-
-
-
 <br>
+
+<h2 align="center">⭐Proyectos Destacados🦋</h2>
+<div align="center">
+<a href="https://github.com/Marimari2342/Wimumo">
+      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Wimumo&theme=tokyonight&bg_color=000000"/>
+    </a> 
+<a href="https://github.com/Marimari2342/AlquilandoWeb">
+      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=AlquilandoWeb&theme=tokyonight&bg_color=000000"/>
+    </a> </div>
 
 <h2 align="center">🌸Materias de la Facu🍏</h2>
 <div align="center">
