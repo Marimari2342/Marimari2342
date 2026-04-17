@@ -5,8 +5,11 @@
 <p align="justify" >Me gusta mucho aprender cosas nuevas, enseñar y trabajar en equipo. Me interesa como hobbies la ilustración y el diseño digital, también armar rompecabezas, leer, mirar pelis y aprender idiomas.</p>
 <p align="justify" >Fanática del manga y el anime, el universo Tolkien, Aurora y mis gatas 🐈🐈‍⬛🐈</p>
 <p align="justify" >Subo las prácticas y el material de estudio para parciales/finales, espero que les sirva (algunas resoluciones pueden venir con errores).</p>
+<div align="center">
+<h3>🐛Intereses</h3>
+<p align="justify"> Me interesa el desarrollo backend, el procesamiento de datos y la interacción humano-computadora. Me gusta trabajar con programación orientada a objetos, enfocándome en escribir código modular y reutilizable.</p>
 <br>
-
+</div><br>
 <p align="center">🔵🔵🔵🔵🔵🔵</p>
 
 <p align="center">
@@ -17,12 +20,6 @@
 <h3 align="center">🪐GitHub Stats</h3>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marimari2342&theme=tokyonight&hide_border=true&bg_color=000000" width="350px"><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marimari2342&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true" width="350px">
-</div>
-
-<div align="center">
-<h3>🐛Intereses</h3>
-<p align="justify"> Me interesa el desarrollo backend, el procesamiento de datos y la interacción humano-computadora. Me gusta trabajar con programación orientada a objetos, enfocándome en escribir código modular y reutilizable.</p>
-<br>
 </div>
 
 <div align="center">
