@@ -29,7 +29,7 @@
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" alt="c#" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" alt="net" height="50" width="50" />
   <img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" height="50" width="50" />
-</p><br>
+</p>
 </div>
 
 <div align="center">
