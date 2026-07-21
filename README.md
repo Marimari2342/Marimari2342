@@ -18,7 +18,7 @@
 
 <div align="center">
 <h3 align="center">🪐GitHub Stats</h3>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Marimari2342&theme=tokyonight&hide_border=true&bg_color=000000" width="350px"><br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marimari2342&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" width="350px"><br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marimari2342&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true" width="350px">
 </div>
 
@@ -56,78 +56,53 @@
 
 <h2 align="center">⭐Proyectos Destacados🦋</h2>
 <div align="center">
-<a href="https://github.com/Marimari2342/Wimumo">
-      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Wimumo&theme=tokyonight&bg_color=000000"/>
-    </a> 
-<a href="https://github.com/Marimari2342/AlquilandoWeb">
-      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=AlquilandoWeb&theme=tokyonight&bg_color=000000"/>
-    </a> </div>
+<a href="https://github.com/Marimari2342/Wimumo"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Wimumo&theme=gotham&bg_color=1F222E&border_color=029C00"/>
+</a>
+<a href="https://github.com/Marimari2342/AlquilandoWeb"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=AlquilandoWeb&theme=gotham&bg_color=1F222E&border_color=029C00"/>
+</a>
+</div>
 
 <h2 align="center">🌸Materias de la Facu🍏</h2>
 <div align="center">
 <h3>Primer Semestre</h3>
-<a href="https://github.com/Marimari2342/CADP">
-      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=CADP&theme=tokyonight&bg_color=000000"/>
-    </a> 
-<a href="https://github.com/Marimari2342/Organizacion-de-Computadoras">
-      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Organizacion-de-Computadoras&theme=tokyonight&bg_color=000000"/>
-    </a> 
+<a href="https://github.com/Marimari2342/CADP"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=CADP&theme=gotham&bg_color=1F222E&border_color=029C00"/>
+</a>
+<a href="https://github.com/Marimari2342/Organizacion-de-Computadoras"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Organizacion-de-Computadoras&theme=gotham&bg_color=1F222E&border_color=029C00"/>
+</a>
 
 <h3>Segundo Semestre</h3>
-    <a href="https://github.com/Marimari2342/Arquitectura-de-Computadoras">
-      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Arquitectura-de-Computadoras&theme=tokyonight&bg_color=000000"/>
-    </a> 
-    <a href="https://github.com/Marimari2342/Taller-de-Programacion">
-      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Taller-de-Programacion&theme=tokyonight&bg_color=000000"/>
-    </a>  
+<a href="https://github.com/Marimari2342/Arquitectura-de-Computadoras"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Arquitectura-de-Computadoras&theme=gotham&bg_color=1F222E&border_color=029C00"/>
+</a>
+<a href="https://github.com/Marimari2342/Taller-de-Programacion"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Taller-de-Programacion&theme=gotham&bg_color=1F222E&border_color=029C00"/>
+</a>
 
 <h3>Tercer Semestre</h3>
-    <a href="https://github.com/Marimari2342/AyED">
-      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=AyED&theme=tokyonight&bg_color=000000"/>
-    </a> 
-    <a href="https://github.com/Marimari2342/FOD">
-      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=FOD&theme=tokyonight&bg_color=000000"/>
-    </a> 
-    <a href="https://github.com/Marimari2342/Seminario.NET">
-      <img height="110px"src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Seminario.NET&theme=tokyonight&bg_color=000000"/>
-    </a> 
+<a href="https://github.com/Marimari2342/AyED"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=AyED&theme=gotham&bg_color=1F222E&border_color=029C00"/>
+</a>
+<a href="https://github.com/Marimari2342/FOD"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=FOD&theme=gotham&bg_color=1F222E&border_color=029C00"/>
+</a>
+<a href="https://github.com/Marimari2342/Seminario.NET"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Seminario.NET&theme=gotham&bg_color=1F222E&border_color=029C00"/>
+</a>
 
 <h3>Cuarto Semestre</h3>
-    <a href="https://github.com/Marimari2342/DBD">
-      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=DBD&theme=tokyonight&bg_color=000000"/>
-    </a> 
-    <a href="https://github.com/Marimari2342/ING1">
-      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=ING1&theme=tokyonight&bg_color=000000"/>
-    </a> <br>
-    <a href="https://github.com/Marimari2342/ISO">
-      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=ISO&theme=tokyonight&bg_color=000000"/>
-    </a> 
-    <a href="https://github.com/Marimari2342/OO1">
-      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=OO1&theme=tokyonight&bg_color=000000"/>
-    </a> 
+<a href="https://github.com/Marimari2342/DBD"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=DBD&theme=gotham&bg_color=1F222E&border_color=029C00"/>
+</a>
+<a href="https://github.com/Marimari2342/ING1"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=ING1&theme=gotham&bg_color=1F222E&border_color=029C00"/>
+</a>
+<a href="https://github.com/Marimari2342/ISO"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=ISO&theme=gotham&bg_color=1F222E&border_color=029C00"/>
+</a>
+<a href="https://github.com/Marimari2342/OO1"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=OO1&theme=gotham&bg_color=1F222E&border_color=029C00"/>
+</a>
 
 <h3> Quinto Semestre</h3>
-    <div align="center">
-      <a href="https://github.com/Marimari2342/ING2">
-        <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=ING2&theme=tokyonight&bg_color=000000"/>
-      </a> 
-      <a href="https://github.com/Marimari2342/Mate3">
-        <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Mate3&theme=tokyonight&bg_color=000000"/>
-      </a> 
-      <a href="https://github.com/Marimari2342/CPLP">
-        <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=CPLP&theme=tokyonight&bg_color=000000"/>
-      </a> 
-  </div>
+<a href="https://github.com/Marimari2342/ING2"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=ING2&theme=gotham&bg_color=1F222E&border_color=029C00"/>
+</a>
+<a href="https://github.com/Marimari2342/Mate3"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Mate3&theme=gotham&bg_color=1F222E&border_color=029C00"/>
+</a>
+<a href="https://github.com/Marimari2342/CPLP"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=CPLP&theme=gotham&bg_color=1F222E&border_color=029C00"/>
+</a>
 </div>
-<br>
 
-
-<h2 align="center">🌳Otros Proyectos🪐</h2>
-<div align="center">
-<a href="https://github.com/Marimari2342/compu-fcaglp">
-      <img height="110px" src="https://github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Compu-fcaglp&theme=tokyonight&bg_color=000000"/>
-    </a>
-</div>
 <br>
 <br>
 <br>
