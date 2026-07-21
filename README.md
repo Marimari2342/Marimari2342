@@ -10,7 +10,7 @@
 <p align="justify"> Me interesa el desarrollo backend, el procesamiento de datos y la interacción humano-computadora. Me gusta trabajar con programación orientada a objetos, enfocándome en escribir código modular y reutilizable.</p>
 <br>
 </div><br>
-<p align="center">🔵🔵🔵🔵🔵🔵</p>
+<p align="center">🟤🟤🟤🟤🟤🟤</p>
 
 <p align="center">
   <img align="center" src="https://github.com/Marimari2342/Marimari2342.github.io/blob/main/imagenes/oscarW.png" alt="oscwilde" height="70"/>
@@ -46,11 +46,11 @@
 <br>
   
 <p align="center">
-  🔵🔵🔵🔵
+  🟤🟠🟡
   <a href="https://drive.google.com/file/d/1OMs1cejNKDFy-pN0nYX2xfsi7-3dc3xc/view?usp=sharing" target="_blank">
     <strong>🍄Ver mi CV🍄</strong>
   </a>
-  🔵🔵🔵🔵
+  🟡🟠🟤
 </p>
 <br>
 
