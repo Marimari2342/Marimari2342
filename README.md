@@ -18,8 +18,8 @@
 
 <div align="center">
 <h3 align="center">🪐GitHub Stats</h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Marimari2342&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" width="350px"><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marimari2342&theme=tokyonight&hide_border=true&layout=compact&include_all_commits=true" width="350px">
+</p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Marimari2342&show_icons=true&theme=nord&hide_border=true" width="350px"><br>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Marimari2342&theme=nord&hide_border=true&layout=compact&include_all_commits=true" width="350px">
 </div>
 
 <div align="center">
