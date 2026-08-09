@@ -1,13 +1,13 @@
 <h1>Hola! Soy Marii 🌱</h1>
 
 <h2>🪴Sobre mi</h2>
-<p align="justify" >Soy estudiante de la Facultad de Informática en la UNLP orientada al desarrollo backend y proyectos interactivos. También formo parte del programa de Tutorías de la Facultad. Actualmente estoy cursando el tercer año de la carrera.</p>
+<p align="justify" >Soy estudiante de la Facultad de Informática en la UNLP orientada al desarrollo backend. También formo parte del programa de Tutorías de la Facultad. Actualmente estoy cursando el tercer año de la carrera.</p>
 <p align="justify" >Me gusta mucho aprender cosas nuevas, enseñar y trabajar en equipo. Me interesa como hobbies la ilustración y el diseño digital, también armar rompecabezas, leer, mirar pelis y aprender idiomas.</p>
 <p align="justify" >Fanática del manga y el anime, el universo Tolkien, Aurora y mis gatas 🐈🐈‍⬛🐈</p>
 <p align="justify" >Subo las prácticas y el material de estudio para parciales/finales, espero que les sirva (algunas resoluciones pueden venir con errores).</p>
 <div align="center">
 <h3>🐛Intereses</h3>
-<p align="justify"> Me interesa el desarrollo backend, el procesamiento de datos y la interacción humano-computadora. Me gusta trabajar con programación orientada a objetos, enfocándome en escribir código modular y reutilizable.</p>
+<p align="justify"> Me interesa el desarrollo backend y el procesamiento de datos. Me gusta trabajar con programación orientada a objetos, enfocándome en escribir código modular y reutilizable.</p>
 <br>
 </div><br>
 <p align="center">🟤🟤🟤🟤🟤🟤</p>
@@ -56,8 +56,6 @@
 
 <h2 align="center">⭐Proyectos Destacados🦋</h2>
 <div align="center">
-<a href="https://github.com/Marimari2342/Wimumo"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=Wimumo&theme=gotham&bg_color=1F222E&border_color=029C00"/>
-</a>
 <a href="https://github.com/Marimari2342/AlquilandoWeb"> <img width="265" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Marimari2342&repo=AlquilandoWeb&theme=gotham&bg_color=1F222E&border_color=029C00"/>
 </a>
 </div>
